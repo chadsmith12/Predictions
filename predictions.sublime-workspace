@@ -1,0 +1,857 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hitter",
+				"hitter_predictions"
+			],
+			[
+				"pitcher",
+				"pitcher_predictions"
+			],
+			[
+				"team",
+				"team_predictions"
+			],
+			[
+				"Prediction",
+				"Prediction_model"
+			],
+			[
+				"Write",
+				"WriteFile"
+			],
+			[
+				"has",
+				"LineHasBrackets"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"Chec",
+				"CheckConditional"
+			],
+			[
+				"Has",
+				"LineHasBrackets"
+			],
+			[
+				"line",
+				"lineBuffer"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"TeamPre",
+				"TeamPrediction_model"
+			],
+			[
+				"number",
+				"number1"
+			],
+			[
+				"admin-us",
+				"admin-users-vote-log"
+			],
+			[
+				"timeSta",
+				"timeStampSQL"
+			],
+			[
+				"voteLog",
+				"voteLogData"
+			],
+			[
+				"confirmation",
+				"confirmation_number"
+			],
+			[
+				"last",
+				"lastUpdate"
+			],
+			[
+				"todays",
+				"todaysDate"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"elect",
+				"electionID"
+			],
+			[
+				"Update",
+				"UpdateElections"
+			],
+			[
+				"result",
+				"result_array"
+			],
+			[
+				"SendRe",
+				"SendReminderEmails"
+			],
+			[
+				"elec",
+				"electionEnd"
+			],
+			[
+				"toda",
+				"todaysDate"
+			],
+			[
+				"can",
+				"candidateVoted"
+			],
+			[
+				"GetEle",
+				"GetElection"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"electio",
+				"election_model"
+			],
+			[
+				"curre",
+				"currentHour"
+			],
+			[
+				"current",
+				"currentHour"
+			],
+			[
+				"confi",
+				"confirmationNumber"
+			],
+			[
+				"Election",
+				"ElectionReceipt"
+			],
+			[
+				"rang",
+				"rangersrounding3rd"
+			],
+			[
+				"mana",
+				"manage_users"
+			],
+			[
+				"candi",
+				"candidate_model"
+			],
+			[
+				"election",
+				"election_model"
+			],
+			[
+				"first",
+				"first_name"
+			],
+			[
+				"scr",
+				"scripts_custom"
+			],
+			[
+				"sc",
+				"scripts_main"
+			],
+			[
+				"curren",
+				"currentColleges"
+			],
+			[
+				"get_users",
+				"get_users_colleges"
+			],
+			[
+				"ele",
+				"election_model"
+			],
+			[
+				"cdnS",
+				"cdnScript"
+			],
+			[
+				"cdn",
+				"cdnScripts"
+			],
+			[
+				"scri",
+				"scripts"
+			],
+			[
+				"cd",
+				"cdnScripts"
+			],
+			[
+				"ava",
+				"avatarUploaded"
+			],
+			[
+				"GetE",
+				"GetElectionCollege"
+			],
+			[
+				"Avatar",
+				"avatarUploaded"
+			],
+			[
+				"total",
+				"totalVotes"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"show",
+				"show_error"
+			],
+			[
+				"user",
+				"userEmail"
+			],
+			[
+				"ion",
+				"ion_auth"
+			],
+			[
+				"actio",
+				"actionButtons"
+			],
+			[
+				"num",
+				"num_rows"
+			],
+			[
+				"previous",
+				"previousCandidate"
+			],
+			[
+				"Remove",
+				"RemoveCandidate"
+			],
+			[
+				"prev",
+				"previousCandidate"
+			],
+			[
+				"sele",
+				"selectedCanddiate"
+			],
+			[
+				"GetElec",
+				"GetElectionCandidates"
+			],
+			[
+				"end",
+				"endforeach"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"cand",
+				"candidate"
+			],
+			[
+				"sidebar_",
+				"sidebar_admin"
+			],
+			[
+				"navigation",
+				"navigation_admin"
+			],
+			[
+				"candida",
+				"candidates"
+			],
+			[
+				"candidate",
+				"candidateID"
+			],
+			[
+				"candid",
+				"candidateID"
+			],
+			[
+				"row",
+				"row_array"
+			],
+			[
+				"notif",
+				"notifications"
+			],
+			[
+				"noti",
+				"notification"
+			],
+			[
+				"not",
+				"notification"
+			],
+			[
+				"Ac",
+				"AcceptElectionNotification"
+			],
+			[
+				"candiate",
+				"candidateLink"
+			],
+			[
+				"admin",
+				"admin_notifications"
+			],
+			[
+				"active",
+				"activeElection"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"acti",
+				"activeElection"
+			],
+			[
+				"GetNoti",
+				"GetNotificationsByType"
+			],
+			[
+				"Noti",
+				"notifications"
+			],
+			[
+				"Extend",
+				"ExtendElection"
+			],
+			[
+				"UpdateE",
+				"UpdateElectionVotes"
+			],
+			[
+				"numberA",
+				"numberActiveElections"
+			],
+			[
+				"form",
+				"form_validation"
+			],
+			[
+				"userCo",
+				"userColleges"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"date_defa",
+				"date_default_timezone_set"
+			],
+			[
+				"activ",
+				"activeElections"
+			],
+			[
+				"electi",
+				"elections_model"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/models/prediction_model.php",
+			"settings":
+			{
+				"buffer_size": 5442,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/teampredictions.php",
+			"settings":
+			{
+				"buffer_size": 2506,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/pitcherpredictions.php",
+			"settings":
+			{
+				"buffer_size": 2707,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/hitterpredictions.php",
+			"settings":
+			{
+				"buffer_size": 2706,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/config/database.php",
+			"settings":
+			{
+				"buffer_size": 3243,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/predictions",
+		"/C/xampp/htdocs/predictions/application",
+		"/C/xampp/htdocs/predictions/application/controllers",
+		"/C/xampp/htdocs/predictions/application/models",
+		"/C/xampp/htdocs/predictions/application/views",
+		"/C/xampp/htdocs/predictions/application/views/predictions"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/UNTVote/application/config/routes.php",
+		"/C/xampp/htdocs/predictions/application/config/config.php",
+		"/C/xampp/htdocs/predictions/application/config/database.php",
+		"/C/xampp/htdocs/predictions/application/views/predictions/new_team_prediction.php",
+		"/C/Users/twigman08/Documents/Development/APIs/codeigniter-asset-helper-master/README.md",
+		"/C/xampp/htdocs/predictions/application/config/routes.php",
+		"/C/xampp/htdocs/UNTVote/application/controllers/pages.php",
+		"/C/xampp/htdocs/predictions/application/controllers/pages.php",
+		"/C/xampp/htdocs/UNTVote/application/controllers/elections.php",
+		"/C/xampp/htdocs/predictions/application/controllers/Pages.php",
+		"/C/xampp/htdocs/predictions/application/controllers/welcome.php",
+		"/C/cygwin64/home/twigman08/increment_thread.c",
+		"/C/Users/twigman08/Documents/Programming/DataStructures/Program2/Program2/mergesort.cpp",
+		"/C/Users/twigman08/Documents/School/Systems/Init/parser.h",
+		"/C/Users/twigman08/Documents/School/Systems/CacheProject/CacheProject/big_trace.trace",
+		"/C/Users/twigman08/Documents/School/Systems/CacheProject/Debug/big_trace.trace",
+		"/C/cygwin64/home/twigman08/increment.c",
+		"/C/cygwin64/home/twigman08/increment_fork.c",
+		"/C/Users/twigman08/Documents/Programming/Systems/Project/Project/Debug/Project.lastbuildstate",
+		"/C/Users/twigman08/Documents/School/Systems/Init/small_trace.trace",
+		"/C/cygwin64/home/twigman08/test.c",
+		"/C/Users/twigman08/Documents/Programming/DataStructures/Program2/Program2/quicksort.cpp",
+		"/C/cygwin64/home/twigman08/DataStructures/Hash.cpp",
+		"/C/Users/twigman08/Documents/School/Assembly/Project1.asm",
+		"/C/cygwin64/home/twigman08/errors.cpp",
+		"/C/Users/twigman08/Documents/School/Systems/Translator/checkuser_new.sh",
+		"/C/Users/twigman08/Documents/School/Systems/Translator/translator.c",
+		"/C/Users/twigman08/Documents/School/Systems/Translator/bashTranslate.c",
+		"/C/Users/twigman08/Documents/School/Systems/Translator/date.sh",
+		"/C/Users/twigman08/Documents/School/Systems/Translator/date4.sh",
+		"/C/Users/twigman08/Documents/School/Systems/Translator/date3.sh",
+		"/C/Users/twigman08/Documents/School/Systems/Translator/date2.sh",
+		"/C/Users/twigman08/Documents/School/Systems/Translator/date1.sh",
+		"/C/xampp/htdocs/predictions/.htaccess",
+		"/C/xampp/htdocs/predictions/application/views/pages/about.php",
+		"/C/xampp/htdocs/predictions/application/views/predictions/new_pitcher_prediction.php",
+		"/C/xampp/htdocs/predictions/application/views/predictions/new_hitter_prediction.php",
+		"/C/xampp/htdocs/predictions/application/views/templates/navigation.php",
+		"/C/xampp/htdocs/predictions/application/views/pages/home.php",
+		"/C/xampp/htdocs/UNTVote/application/views/user/user-elections-confirmation.php",
+		"/C/xampp/htdocs/predictions/application/views/predictions/hitter_predictions.php",
+		"/C/xampp/htdocs/predictions/application/views/predictions/team_predictions.php",
+		"/C/xampp/htdocs/predictions/application/views/predictions/pitcher_predictions.php",
+		"/C/xampp/htdocs/predictions/application/views/predictions/prediction_successful.php",
+		"/C/xampp/htdocs/predictions/assets/css/style.css",
+		"/C/xampp/htdocs/UNTVote/assets/css/style-main.css",
+		"/C/xampp/htdocs/predictions/application/controllers/HitterPredictions.php",
+		"/C/xampp/htdocs/predictions/application/views/templates/header.php",
+		"/C/xampp/htdocs/predictions/application/views/templates/footer.php",
+		"/C/xampp/htdocs/predictions/application/config/autoload.php",
+		"/C/cygwin64/home/twigman08/ShellScripts/callPrintArgs.c",
+		"/C/xampp/htdocs/predictions/application/controllers/PitcherPredictions.php",
+		"/C/xampp/htdocs/predictions/application/controllers/TeamPredictions.php",
+		"/C/xampp/htdocs/UNTVote/application/views/templates/navigation_admin.php",
+		"/C/xampp/htdocs/UNTVote/application/views/candidate/user-candidate-info.php",
+		"/C/xampp/htdocs/UNTVote/application/views/templates/header.php",
+		"/C/xampp/htdocs/UNTVote/application/views/templates/admin_navigation.php",
+		"/C/xampp/htdocs/predictions/application/models/Prediction_model.php",
+		"/C/xampp/htdocs/predictions/layout2t/layoutit/src/index.html",
+		"/C/xampp/htdocs/predictions/application/models/TeamPrediction_model.php",
+		"/C/cygwin64/home/twigman08/ShellScripts/date.sh",
+		"/C/cygwin64/home/twigman08/ShellScripts/for.sh",
+		"/C/cygwin64/home/twigman08/ShellScripts/userinterface.sh",
+		"/C/cygwin64/home/twigman08/ShellScripts/functions.sh",
+		"/C/cygwin64/home/twigman08/ShellScripts/forTest.sh",
+		"/C/cygwin64/home/twigman08/ShellScripts/hello.sh",
+		"/C/xampp/FileZillaFTP/source/AdminInterface.cpp",
+		"/C/Users/twigman08/Documents/Programming/LearningC/number.c",
+		"/C/Users/twigman08/Documents/School/Systems/youParseIt.c",
+		"/C/xampp/htdocs/eBallot/application/controllers/admin.php",
+		"/C/xampp/htdocs/eBallot/application/controllers/candidates.php",
+		"/C/xampp/htdocs/eBallot/application/controllers/contact.php",
+		"/C/xampp/htdocs/eBallot/application/controllers/cronjobs.php",
+		"/C/xampp/htdocs/eBallot/application/controllers/elections.php",
+		"/C/xampp/htdocs/eBallot/application/controllers/notifications.php",
+		"/C/xampp/htdocs/eBallot/application/controllers/user.php",
+		"/C/xampp/htdocs/eBallot/application/views/elections/create_election.php",
+		"/C/xampp/htdocs/eBallot/application/views/admin/admin-create-election.php",
+		"/C/xampp/htdocs/eBallot/application/views/admin/admin-dashboard.php",
+		"/C/xampp/htdocs/eBallot/application/views/templates/sidebar_admin.php",
+		"/C/xampp/htdocs/eBallot/application/controllers/pages.php",
+		"/C/xampp/htdocs/eBallot/application/config/config.php",
+		"/C/Users/twigman08/Desktop/download",
+		"/C/xampp/htdocs/TestLaravel/app/routes.php",
+		"/C/xampp/htdocs/TestLaravel/public/index.php",
+		"/C/xampp/htdocs/TestLaravel/bootstrap/autoload.php",
+		"/C/xampp/htdocs/TestLaravel/bootstrap/compiled.php",
+		"/C/xampp/htdocs/TestLaravel/bootstrap/start.php",
+		"/C/xampp/htdocs/TestLaravel/public/.htaccess",
+		"/C/xampp/htdocs/UNTVote/application/views/templates/navigation.php",
+		"/C/xampp/htdocs/UNTVote/application/views/templates/header_user.php",
+		"/C/xampp/htdocs/UNTVote/application/config/ion_auth.php",
+		"/C/xampp/htdocs/UNTVote/application/config/migration.php",
+		"/C/xampp/htdocs/UNTVote/application/config/user_agents.php",
+		"/C/xampp/htdocs/UNTVote/application/controllers/cronjobs.php",
+		"/C/xampp/htdocs/UNTVote/application/controllers/admin.php",
+		"/C/xampp/htdocs/UNTVote/application/config/email.php",
+		"/C/xampp/htdocs/wordpress/wp-admin/setup-config.php",
+		"/C/xampp/htdocs/UNTVote/application/logs/log-2014-12-02.php",
+		"/C/xampp/htdocs/UNTVote/application/controllers/user.php",
+		"/C/xampp/htdocs/UNTVote/application/models/election_model.php",
+		"/C/xampp/htdocs/UNTVote/application/models/notification_model.php",
+		"/C/xampp/htdocs/UNTVote/application/views/user/user-dashboard.php",
+		"/C/xampp/htdocs/UNTVote/application/views/admin/admin-dashboard.php",
+		"/C/xampp/htdocs/UNTVote/application/config/config.php",
+		"/C/xampp/htdocs/UNTVote/.htaccess",
+		"/C/xampp/htdocs/UNTVote/application/views/admin/admin-users-edit.php",
+		"/C/xampp/htdocs/UNTVote/application/views/admin/admin-users-edit.html",
+		"/C/xampp/htdocs/UNTVote/application/views/admin/admin-edit-election.php",
+		"/C/xampp/htdocs/UNTVote/application/views/templates/sidebar_admin.php",
+		"/C/xampp/htdocs/UNTVote/application/views/admin/admin-users-vote-log.php",
+		"/C/xampp/htdocs/UNTVote/application/views/templates/header_manage_elections.php",
+		"/C/xampp/htdocs/UNTVote/application/controllers/notifications.php",
+		"/C/xampp/htdocs/UNTVote/application/views/user/user-elections-details.php",
+		"/C/xampp/htdocs/UNTVote/application/views/admin/admin-elections-results.php",
+		"/C/xampp/htdocs/UNTVote/system/core/Input.php",
+		"/C/xampp/htdocs/UNTVote/application/controllers/candidates.php",
+		"/C/xampp/htdocs/UNTVote/application/models/candidate_model.php",
+		"/C/xampp/htdocs/UNTVote/application/views/admin/admin-create-election.php",
+		"/C/xampp/htdocs/UNTVote/application/config/database.php",
+		"/C/xampp/htdocs/UNTVote/application/models/college_model.php",
+		"/C/xampp/htdocs/Election_Proto/application/config/database.php",
+		"/C/Users/twigman08/Pictures/Online Sites/evi.jpg",
+		"/C/xampp/htdocs/UNTVote/application/models/user_model.php",
+		"/C/xampp/htdocs/UNTVote/application/views/admin/admin-users-approvals.php",
+		"/C/xampp/htdocs/UNTVote/application/views/pages/help.php",
+		"/C/xampp/htdocs/UNTVote/application/controllers/contact.php",
+		"/C/xampp/htdocs/UNTVote/application/views/pages/contact-us.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pitcher_predictions",
+			"login",
+			"colleges",
+			"login",
+			"register",
+			"email_check",
+			"set_message",
+			"activate_successful",
+			"set_message",
+			"_render_page",
+			"']?>\">\n",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/models/prediction_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2608,
+								2608
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 325.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/controllers/teampredictions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2028,
+								2028
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/controllers/pitcherpredictions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2707,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2420,
+								2420
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 195.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/controllers/hitterpredictions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2706,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1202,
+								1202
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/config/database.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2716,
+								2716
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 130.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "predictions.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
